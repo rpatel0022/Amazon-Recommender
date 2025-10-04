@@ -14,6 +14,7 @@ A machine learning project for building a recommendation system using Amazon pro
 ## Getting Started
 
 ### Option 1: Using Conda (Recommended)
+
 1. Clone the repository
 2. Create conda environment: `conda create -n amazon-recommender python=3.9`
 3. Activate environment: `conda activate amazon-recommender`
@@ -21,6 +22,7 @@ A machine learning project for building a recommendation system using Amazon pro
 5. Start Jupyter: `jupyter notebook`
 
 ### Option 2: Using pip
+
 1. Clone the repository
 2. Create virtual environment: `python -m venv amazon-recommender-env`
 3. Activate environment: `source amazon-recommender-env/bin/activate` (Linux/Mac) or `amazon-recommender-env\Scripts\activate` (Windows)
@@ -28,6 +30,7 @@ A machine learning project for building a recommendation system using Amazon pro
 5. Start Jupyter: `jupyter notebook`
 
 ### Working with the Project
+
 - Open `notebooks/sales.ipynb` to start your analysis
 - All data files are in the `data/` directory
 - Save your models in the `models/` directory

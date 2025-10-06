@@ -24,3 +24,4 @@ jupyter>=1.1.1
 # Additional useful packages for recommendation systems
 scipy>=1.15.3
 plotly>=5.24.1
+wordcloud>=1.9.4
